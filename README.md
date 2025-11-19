@@ -10,12 +10,6 @@
 
 ## Установка
 
-1. **Клонирование проекта**
-```bash
-git clone <repo-url> yii2-app
-cd yii2-app
-```
-
 2. **Запуск Docker-контейнеров**
 ```bash
 docker-compose up -d
